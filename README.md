@@ -14,7 +14,7 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 💼 &nbsp; Working as a  [Ilm Hub](https://ilmhub.uz).
+  - 💼 &nbsp; Working as a  (UZEX).
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/beginnerC)
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: aqurbonov786@gmail.com
